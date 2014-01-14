@@ -26,7 +26,7 @@
 
 	<div id='center_shell'>
 			<!--below, is the form for submitting a new dealer offer -->		
-		<form id = 'add_new' action= 'car_calc_process.php' method = 'post'>
+		<form id = 'add_new' action= 'process.php' method = 'post'>
 			<h4>Add New Offer</h4>
 			<input type="text" name = 'dealer' placeholder = 'dealer'>
 			<br>
